@@ -23,7 +23,7 @@ main PROC
 		 jmp  exit
 
 		 call installedHandler
-		 cmp  rax, 0
+		 cmp  rax, EXIT_SUCCESS
 		 jmp  exit
 
 exit:
