@@ -10,7 +10,6 @@ printf				  proto
 caughtSignal			byte	"Signal caught", 10, 0
 handlerInstalled		byte	"Control Handler is installed", 10, 0
 
-CTRL_C_EVENT			equ		0
 EXIT_FAILURE			equ		1
 EXIT_SUCCESS			equ		0
 
