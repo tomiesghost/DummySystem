@@ -1,5 +1,6 @@
 # DummySystem
-![maxresdefault](https://github.com/user-attachments/assets/ac70d2c3-0f1a-4e85-a201-760196268c9b)
+![dummysystem](https://github.com/user-attachments/assets/dc34a0c8-a084-4dc3-ae5b-8971fe76959f)
+
 
 
 ## About
