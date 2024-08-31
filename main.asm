@@ -50,7 +50,7 @@ setConsole ENDP
 installedHandler PROC
 					 sub  rsp, 40
 					 lea  rcx, handlerInstalled
-					 call print
+					 call printf
 					 add  rsp, 40
 					 
 					 jmp whileLp
